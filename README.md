@@ -26,8 +26,8 @@ This dashboard focuses on the relationships between variables, displaying:
 
 ## Repo Content
 This repository contains the main compnenent of the project
-* **Power BI Report/**: This folder contains the Power BI `.pbix` file that you can open and explore.
-* **Data/**: This folder contains the cleaned dataset in `.csv` format used for visualization.
+* **Power BI Report/**: The Power BI `.pbix` file that you can open and explore.
+* **Export file of Dashboards**: The file `.pdf` which is exported version of the Power BI Dashboards.
 * **EDA/**: This folder contains the Jupyter Notebook (`.ipynb`) documenting the Exploratory Data Analysis (EDA) process, including data cleaning and manipulation steps.
 
 ---
